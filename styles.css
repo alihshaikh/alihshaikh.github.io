@@ -1,0 +1,118 @@
+nav {
+  background-color: #394867;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+body {
+  background-color: black;
+}
+
+#circle {
+  border-radius: 50%;
+  margin-top: 75px;
+  /*border: 5px solid #242424;*/
+}
+
+.headerfont {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+p2 {
+  margin-top: 200px;
+  color: #ffffff;
+  font-size: 22px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.educationfont {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+p4 {
+  margin-top: 100px;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.white-text {
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.overflow {
+  height: 100px;
+  width: 200px;
+  overflow: hidden;
+}
+
+#rowmargin {
+  margin-top: 100px;
+}
+
+hr {
+  border-top: 1px solid white;
+}
+
+h1 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+}
+
+h3 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+}
+
+h5 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+}
+
+h6 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h7 {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+}
+
+.image-responsive {
+  max-width: 100%;
+}
+
+.icon-margin {
+  margin-top: 50px;
+}
